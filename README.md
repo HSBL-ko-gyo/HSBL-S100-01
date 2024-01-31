@@ -1,8 +1,8 @@
-## RGB bottom for ATOM
-HSBL-S100-01 
+# RGB bottom for ATOM-HSBL-S100-01 
+
 
 ## 購入
-こちらから
+[こちら](https://sites.google.com/view/hsbl-s100/home#h.4ybfc96k160s)から
 
 ## 概要
 
