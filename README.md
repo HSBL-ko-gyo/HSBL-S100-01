@@ -1,4 +1,6 @@
 # RGB bottom for ATOM-HSBL-S100-01 
+<img src="https://github.com/HSBL-ko-gyo/HSBL-S100-01/assets/128065816/71b2e537-0d9a-48d0-b707-0dc9a187bdfa" width="300" >
+
 
 
 ## 購入
