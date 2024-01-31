@@ -17,7 +17,7 @@ RGBLEDのシリアル通信PINはATOMS3の場合PIN6にデフォルトで接続�
 ## WEB tool
 
 ATOMS3で使用する場合、OSSの[HSBL-S101 Chameleon WEBtool](https://hsbl-ko-gyo.github.io/HSBL-S101/)にて  
-RGBの色の変更がブラウザから可能です。  
+RGB色の変更がブラウザから可能です。  
 ファームウェア書き込みも同ページより可能です。  
 
 ## サンプルコード
