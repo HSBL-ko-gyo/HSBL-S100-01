@@ -4,7 +4,9 @@
 
 
 ## 購入
-[こちら](https://sites.google.com/view/hsbl-s100/home#h.4ybfc96k160s)から
+
+<a href="https://sites.google.com/view/hsbl-s100/home#h.4ybfc96k160s" target="_blank">購入先一覧</a>
+
 
 ## 概要
 
@@ -17,15 +19,15 @@ RGBLEDのシリアル通信PINはATOMS3の場合PIN6にデフォルトで接続�
 
 ## 回路
 
-[HSBL-S100-01/circuit/
-](https://github.com/HSBL-ko-gyo/HSBL-S100-01/tree/main/circuit)
+<a href="https://github.com/HSBL-ko-gyo/HSBL-S100-01/tree/main/circuit" target="_blank">HSBL-S100-01/circuit/</a>
 
 
-## WEB tool
+## WEB ツール
 
-ATOMS3で使用する場合、OSSの[HSBL-S101 Chameleon WEBtool](https://hsbl-ko-gyo.github.io/HSBL-S101/)にて  
+ATOMS3で使用する場合、OSSの<a href="https://hsbl-ko-gyo.github.io/HSBL-S101/" target="_blank">HSBL-S101 Chameleon WEBtool</a>にて  
 RGB色の変更がブラウザから可能です。  
-ファームウェア書き込みも同ページより可能です。  
+ファームウェア書き込み機能も同ページより提供しています。  
+
 
 ## サンプルコード
 
