@@ -34,7 +34,8 @@ RGB色の変更がブラウザから可能です。
 ``` C++
 #include <Adafruit_NeoPixel.h>
 
-#define PIN        6  // ネオピクセルが接続されているピン
+#define PIN        6  // ネオピクセルピン S3の場合
+//#define PIN        19 // ATOMの場合
 #define NUMPIXELS  1  // ネオピクセルの数
 
 // NeoPixelオブジェクトを作成
