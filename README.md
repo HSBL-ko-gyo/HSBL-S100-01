@@ -36,6 +36,8 @@ RGB色の変更がブラウザから可能です。
 
 ### サンプルコード
 
+<img src="https://github.com/HSBL-ko-gyo/HSBL-S100-01/assets/128065816/43bbba19-f389-453f-9e08-023c204dab4d" width="300" >
+
 ``` C++
 #include <Adafruit_NeoPixel.h>
 
