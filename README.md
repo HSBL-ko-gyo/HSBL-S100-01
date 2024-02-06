@@ -21,6 +21,11 @@ RGBLEDのシリアル通信PINはATOMS3の場合PIN6にデフォルトで接続�
 
 <a href="https://github.com/HSBL-ko-gyo/HSBL-S100-01/tree/main/circuit" target="_blank">HSBL-S100-01/circuit/</a>
 
+### 光拡散部3Dデータ
+
+<a href="https://github.com/HSBL-ko-gyo/HSBL-S100-01/tree/main/3D" target="_blank">HSBL-S100-01/3D/</a>
+
+
 
 ### WEB ツール
 
