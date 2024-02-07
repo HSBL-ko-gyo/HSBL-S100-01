@@ -5,7 +5,7 @@
 
 ### 購入
 
-<a href="https://sites.google.com/view/hsbl-s100/home#h.4ybfc96k160s" target="_blank">購入先一覧</a>
+<a href="https://sites.google.com/view/hsbl-s100/home#h.hl5y4fawha44" target="_blank">購入先一覧</a>
 
 
 ### 概要
