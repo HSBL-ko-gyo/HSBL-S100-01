@@ -24,6 +24,14 @@ RGBLEDのシリアル通信PINはATOMS3の場合PIN6にデフォルトで接続�
 
 <a href="https://github.com/HSBL-ko-gyo/HSBL-S100-01/tree/main/3D" target="_blank">HSBL-S100-01/3D/</a>
 
+| 項目       | 詳細       |
+|------------|------------|
+| 製造業者 | JLCPCB  |
+| 3Dテクノロジー | SLA(樹脂)  |
+| 材料       | 8001樹脂   |
+| 色         | 透明       |
+| 表面仕上げ   | いいえ     |
+
 
 
 ### WEB ツール
