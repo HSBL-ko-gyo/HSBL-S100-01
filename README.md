@@ -6,8 +6,16 @@
 
 <a href="https://sites.google.com/view/hsbl-s100/home#h.hl5y4fawha44" target="_blank">購入先一覧</a>
 
+> ※このハードウェアは  
+「Chameleon Key：画面付きマクロボタン」用に作成しましたが  
+他の用途でもご使用いただけます。
+Chameleon Key詳細は[製品ページ](https://sites.google.com/view/hsbl-industrial-hp/home/2023%E4%BD%9C%E5%93%81chameleon-key)をご覧ください。  
+><img src="https://github.com/HSBL-ko-gyo/HSBL-S101/assets/128065816/1e1bd703-e5ae-439e-a196-002bb3161693" width="320"  alt="HSBL-S100">  
+
+
 
 ### 概要
+
 
 M5 ATOMデバイスの底面にRGB LED機能を追加します。  
   
